@@ -1,0 +1,42 @@
+Java tərəfindən yaradılan kompilyasiya edilmiş fayllar
+*.class
+
+Paketlər və Arxivlər
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+Log faylları
+*.log
+
+Build alətləri tərəfindən yaradılan qovluqlar
+Maven
+target/
+
+Gradle
+build/
+bin/
+
+IntelliJ IDEA tərəfindən yaradılan fayllar və qovluqlar
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+Visual Studio Code tərəfindən yaradılan qovluq
+.vscode/
+
+Əməliyyat sistemi tərəfindən yaradılan fayllar
+macOS
+.DS_Store
+
+Windows
+Thumbs.db
+
+Virtual Maşın (JVM) çökərsə yaranan loglar
+hs_err_pid*
+replay_pid*
