@@ -21,7 +21,6 @@ public class ReportGenerator {
             if (fraudulentTransactions.isEmpty()) {
                 writer.write("Hec bir subheli emeliyyat askarlanmadi.\n");
             } else {
-                // Her bir subheli emeliyyati nomreleyerek fayla yaziriq.
                 int count = 1;
                 for (Transaction t : fraudulentTransactions) {
                     writer.write("Emeliyyat #" + count++ + ":\n");
