@@ -31,4 +31,4 @@ Here usually i write my progress and folder structure for better understanding, 
 
 i understand that this folder structure interrupt mee
 
-day's first push x
+day's first push xx
