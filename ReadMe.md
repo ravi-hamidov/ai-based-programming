@@ -28,7 +28,3 @@ Here usually i write my progress and folder structure for better understanding, 
     - 000_example.jpg
     - 001_example.pdf
     - 002_example.rar
-
-i understand that this folder structure interrupt mee
-
-day's first push xxx

@@ -1,9 +1,0 @@
-transaction_id,user_id,amount,timestamp,location
-t001,user_A,150.00,2025-08-30T21:10:00,Baku
-t002,user_B,8500.00,2025-08-30T21:12:00,Ganja
-t003,user_A,75.50,2025-08-30T21:13:00,Baku
-t004,user_C,250.00,2025-08-30T21:15:00,Sumgait
-t005,user_A,120.00,2025-08-30T21:15:30,Baku
-t006,user_A,300.00,2025-08-30T21:15:45,London
-t007,user_B,50.00,2025-08-30T21:20:00,Ganja
-
