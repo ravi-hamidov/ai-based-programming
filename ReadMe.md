@@ -26,9 +26,12 @@ Here usually i write my progress and folder structure for better understanding, 
       - 004_generics
       - 005_collections-framework
       - readme.md
-  - storage
-  - .gitignore
-  - license
+  - storage ( include some files which is used at the documentations, i'm bring it all this type of things in this folder )
+    - 000_example.jpg
+    - 001_example.pdf
+    - 002_example.rar
+  - .gitignore ( i thing that i don't need explain this file )
+  - license ( It tells people the rules for how they are allowed to use your code. )
   - `file which is you read right now ;)`
 
 
