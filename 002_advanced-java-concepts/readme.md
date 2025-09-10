@@ -296,3 +296,20 @@ Umumen Java'da giris cixis emeliyyatlari stream(axin) vasitesi ile heyata keciri
 | **Məqsəd**        | Hər növ fayl (şəkil, səs, video, mətn)   | **Yalnız mətn** faylları                        |
 | **Kodlaşdırma**   | Simvol kodlaşdırmasından **xəbərsizdir** | Simvol kodlaşdırmasını **avtomatik idarə edir** |
 | **Əsas Siniflər** | `InputStream` / `OutputStream`           | `Reader` / `Writer`                             |
+
+## Collections Framework
+
+### Java Kolleksiyalarının Müqayisə Cədvəli
+
+| İnterfeys | Implementasiya (Sinif) | Daxili Struktur             | Sıralama Xüsusiyyəti        | Dublikatlara İcazə | Əsas Üstünlüyü (Nə vaxt istifadə olunur?)                  |
+| :-------- | :--------------------- | :-------------------------- | :-------------------------- | :----------------- | :--------------------------------------------------------- |
+| **List**  | `ArrayList`            | Dinamik Massiv              | Daxiletmə sırası qorunur    | Hə                 | Elementlərə indekslə sürətli müraciət (`get()`).           |
+| **List**  | `LinkedList`           | İkili Bağlı Siyahı          | Daxiletmə sırası qorunur    | Hə                 | Siyahının ortasına/əvvəlinə element əlavə etmək/silmək.    |
+| ---       |                        |                             |                             |                    |                                                            |
+| **Set**   | `HashSet`              | Hash Cədvəli                | Sıralamaya zəmanət yoxdur   | Yox                | Ən yüksək sürət (əlavə etmə/axtarış), sıra vacib deyil.    |
+| **Set**   | `LinkedHashSet`        | Hash Cədvəli + Bağlı Siyahı | Daxiletmə sırası qorunur    | Yox                | Unikallıq və elementlərin daxil edilmə sırasını saxlamaq.  |
+| **Set**   | `TreeSet`              | Qırmızı-Qara Ağac           | Təbii sıralama (artan sıra) | Yox                | Elementlərin avtomatik sıralanmış şəkildə saxlanması.      |
+| ---       |                        |                             |                             |                    |                                                            |
+| **Map**   | `HashMap`              | Hash Cədvəli                | Sıralamaya zəmanət yoxdur   | Açar unikaldır     | Ən sürətli açar-dəyər əməliyyatları (`put()`/`get()`).     |
+| **Map**   | `LinkedHashMap`        | Hash Cədvəli + Bağlı Siyahı | Daxiletmə sırası qorunur    | Açar unikaldır     | Açarların daxil edilmə ardıcıllığını saxlamaq.             |
+| **Map**   | `TreeMap`              | Qırmızı-Qara Ağac           | Açarlara görə sıralanmış    | Açar unikaldır     | Açarları sıralı şəkildə saxlamaq və aralıq axtarışı etmək. |
