@@ -21,7 +21,7 @@
   - Eden dolur, GC isleyir. Obyekt sag qalırsa, Survivor Space-ə köçür.
   - Bir neçə dəfə Survivor sahələri arasında "səyahət etdikdən" sonra "yaşlanır".
   - Nəhayət, Tenured Space-ə köçürülür və orada uzun müddət yaşayır.
-  - Artıq istifadə edilmədikdə isə "Major GC" tərəfindən yaddaşdan silinir.
+  - Artıq istifadə edilmədikdə isə "Major GC" terefindən yaddaşdan silinir.
 
 > Garbage Collection niye vacibdir ? cunki memory leak'lerin qarsisini alir performansini artirir, outofmemory riskini azaldir
 
