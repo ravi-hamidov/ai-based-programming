@@ -16,7 +16,7 @@
 
 > Meta data space - bu jvm'in bir hissesi olmasa onemli data sahesidi melumatlarin ozlerini deyil onlar haqqinda melumat dasiyi, bu sahe evvel permament generation adlanirdi
 
-- Xülasə: Obyektin Həyat Dövrü
+- Xulasə: Obyektin Heyat dovru
   - Obyekt Eden-də yaranır.
   - Eden dolur, GC işləyir. Obyekt sağ qalırsa, Survivor Space-ə köçür.
   - Bir neçə dəfə Survivor sahələri arasında "səyahət etdikdən" sonra "yaşlanır".
