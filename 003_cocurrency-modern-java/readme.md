@@ -18,7 +18,7 @@
 
 - Xulasə: Obyektin Heyat dovru
   - Obyekt Eden-də yaranır.
-  - Eden dolur, GC işləyir. Obyekt sağ qalırsa, Survivor Space-ə köçür.
+  - Eden dolur, GC isleyir. Obyekt sag qalırsa, Survivor Space-ə köçür.
   - Bir neçə dəfə Survivor sahələri arasında "səyahət etdikdən" sonra "yaşlanır".
   - Nəhayət, Tenured Space-ə köçürülür və orada uzun müddət yaşayır.
   - Artıq istifadə edilmədikdə isə "Major GC" tərəfindən yaddaşdan silinir.
