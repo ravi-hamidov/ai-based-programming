@@ -47,3 +47,5 @@ Here usually i write my progress and folder structure for better understanding, 
 ### Fraud Detection App
 
 [Link](https://github.com/ravi-hamidov/javafx-fraud-detector).
+
+.,.
