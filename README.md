@@ -1,7 +1,6 @@
 # **Java Learning Syllabus (Roadmap)**
 
 ## 1. Introduction & Setup
-
 - JDK, JRE, and JVM concepts. 
     - { yuklendi ve istifadeye hazirdir }
 - Setting up the IDE (IntelliJ IDEA, Eclipse, or VS Code). 
@@ -10,8 +9,18 @@
     - { Hello world programi numunelere baxaraq yazildi ve hello world strukturunda bele hansi ifadenin ne ise yaradiqi oyrenildi }
 
 ## 2. Java Basics (Foundations)
-
 - **Data Types:** Primitive vs. Non-Primitive.
+    - { primitiv ve primitiv olmayan data tipleri uzerinden kecildi }
 - **Variables & Operators:** Arithmetic, logical, and assignment operators.
+    - { uzerinden kecildi movzularin }
 - **Control Flow Statements:** If-else, switch-case, for, while, and do-while loops.
+    - { control flow statementler praktika olunub xatirlandi }
 - **Arrays:** Single and multi-dimensional arrays.
+    - { Donguler tekrarlandi ve uzerinden kecildi }
+
+## 3. ## 3. Object-Oriented Programming (OOP)
+- Classes and Objects.
+- Constructors & Methods.
+- **The 4 Pillars:** Encapsulation, Inheritance, Polymorphism, Abstraction.
+- Interfaces and Abstract Classes.
+- Access Modifiers (`public`, `private`, `protected`, `default`).
