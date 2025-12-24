@@ -1,5 +1,11 @@
 # **Java Learning Syllabus (Roadmap)**
 
+## 0. How does the internet work
+- Introduction to the internet 
+- IP - internet protocol
+- LAN - local area network
+- ICP - internet service provider
+
 ## 1. Introduction & Setup
 - JDK, JRE, and JVM concepts. 
     - { yuklendi ve istifadeye hazirdir }
@@ -18,8 +24,9 @@
 - **Arrays:** Single and multi-dimensional arrays.
     - { Donguler tekrarlandi ve uzerinden kecildi }
 
-## 3. ## 3. Object-Oriented Programming (OOP)
-- Classes and Objects.
+## 3. Object-Oriented Programming (OOP)
+- Classes|Objects|Constructors|Access Modifiers|this&super|
+    - { klass'larin ne olduqu, abyekt'ler, konstructorlar nezerden kecirildi }
 - Constructors & Methods.
 - **The 4 Pillars:** Encapsulation, Inheritance, Polymorphism, Abstraction.
 - Interfaces and Abstract Classes.
