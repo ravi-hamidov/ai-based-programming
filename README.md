@@ -4,7 +4,13 @@
 - Introduction to the internet 
 - IP - internet protocol
 - LAN - local area network
-- ICP - internet service provider
+- ISP - internet service provider
+- DNS - domain name system
+- http - hypertext transfer protocol
+- https - hypertext transfer protocol secure
+- tcp - transmission transfer protocol
+
+`here i just write some note for my own i repeat some topics about that`
 
 ## 1. Introduction & Setup
 - JDK, JRE, and JVM concepts. 
