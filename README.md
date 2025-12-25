@@ -45,7 +45,8 @@
 
         ve birgun dede'si rehmete gedende dedesinden buna ev esik qalsin deyene asan xidmete bir sened ve.s gostermeli olduqu uchun super keyword'unden istifade edir soyadi eyni olmasada deyrid dedemdi seysuyu menimdir ahaha
     - `Polymorphism`
-        - 
+        - Polymorphism opsm `override` var kimise sayb evezine soz deyirik, `overload` kiminsede beline qadirdiqinin bir nece qatini yuklyrk arada adina medeni dilde overload deyrik 
     - `Abstraction`
-- Interfaces and Abstract Classes.
+        - abstraksiya'dan behs ederken abstrakt klas ve interface'den danismaq lazimdi, abstrakt odurki opsm menim bir nece heyvanim var evde bunlar hamisinin yatmaq xususiyyeti var ancaq heresi bir cur ses cxarir biri uluyur biri myavliyir digerleri allah kerim 
 - Access Modifiers (`public`, `private`, `protected`, `default`).
+    - bunlarda yaxchi usaqlardi sadece istifade olunuduqlarin gormemsem deye lazim olanda oxuyaram
