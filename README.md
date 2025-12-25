@@ -37,8 +37,15 @@
     - `Encapsulation` 
         - enkapsulasiya bir nov icdiyimiz vitamin kapsullara benziyir, numuneten D3 vitamin kapsul formasindadi ancaq kapsul'un uzerinde her hansi bir qeyd ve.s olmur onun D3 olduqunu bilen ve lazim olan doza'ni bilen opsm icir ve faydsini gorur ancaq bilmeyen yox, buda onun kimi bize lazim olan variable'ni private edib getter ile elde edib setter ile deyisir sora istifade edirik ve.s opsm bye besdi 
     - `Inheritance `
-        - 
+        - bu movzu dede'den qalan mirasdan danisdiq heqeten zor seydi oz aramizdi, opsm demeli dededen nese qalan bala deyirki mende dede soyad'indanam ve onun soyadini miras alir numune verek deyekki 
+        memmed memmedov'un oglu
+        akif memmedov'dur
+
+        indi demeli akif memmedov deyekki soyadini deyismek isteyir ve asan xidmete muraciet edir ve deyirli memmedov yox memmedzade isteyir olsun ve istediyini edir olmaz deye bir sey yox sonucta 
+
+        ve birgun dede'si rehmete gedende dedesinden buna ev esik qalsin deyene asan xidmete bir sened ve.s gostermeli olduqu uchun super keyword'unden istifade edir soyadi eyni olmasada deyrid dedemdi seysuyu menimdir ahaha
     - `Polymorphism`
+        - 
     - `Abstraction`
 - Interfaces and Abstract Classes.
 - Access Modifiers (`public`, `private`, `protected`, `default`).
